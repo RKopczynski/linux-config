@@ -1,6 +1,7 @@
 {
     "gitProjectManager.baseProjectsFolders": [
-        "/home/rafal-pozitive/CODE"
+        "~/CODE",
+        "~/dotfiles"
     ],
     "window.zoomLevel": 0
 }
