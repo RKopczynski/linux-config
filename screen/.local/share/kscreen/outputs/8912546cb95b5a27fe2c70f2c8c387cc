@@ -1,0 +1,16 @@
+{
+    "id": "8912546cb95b5a27fe2c70f2c8c387cc",
+    "metadata": {
+        "fullname": "xrandr-DELL U2415-XKV0P01A5PRU",
+        "name": "DP2-8"
+    },
+    "mode": {
+        "refresh": 59.950172424316406,
+        "size": {
+            "height": 1200,
+            "width": 1920
+        }
+    },
+    "rotation": 2,
+    "scale": 1
+}
