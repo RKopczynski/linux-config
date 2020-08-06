@@ -1,7 +1,12 @@
+# alias required for code-insiders to work
 [core]
-	editor = code-insiders --wait
+	editor  = code --wait
+[pull]
+    ff  = only
+[merge]
+    ff  = only
 [alias]
-    lg = lg1
+    lg  = lg1
     lg1 = lg1-specific --all
     lg2 = lg2-specific --all
     lg3 = lg3-specific --all
