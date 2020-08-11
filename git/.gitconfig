@@ -1,6 +1,5 @@
-# alias required for code-insiders to work
 [core]
-	editor  = code --wait
+	editor  = code-insiders --wait
 [pull]
     ff  = only
 [merge]
