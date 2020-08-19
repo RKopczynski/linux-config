@@ -14,15 +14,15 @@
             }
         },
         "pos": {
-            "x": 1200,
-            "y": 1200
+            "x": 0,
+            "y": 0
         },
         "primary": true,
         "rotation": 1,
         "scale": 1
     },
     {
-        "enabled": true,
+        "enabled": false,
         "id": "3a491f3f8fb17d66f93a94c7280d3602",
         "metadata": {
             "fullname": "xrandr-DELL U2415-XKV0P03520TU",
@@ -37,28 +37,6 @@
         },
         "pos": {
             "x": 0,
-            "y": 0
-        },
-        "primary": false,
-        "rotation": 2,
-        "scale": 1
-    },
-    {
-        "enabled": true,
-        "id": "8912546cb95b5a27fe2c70f2c8c387cc",
-        "metadata": {
-            "fullname": "xrandr-DELL U2415-XKV0P01A5PRU",
-            "name": "DP2-1-8"
-        },
-        "mode": {
-            "refresh": 59.950172424316406,
-            "size": {
-                "height": 1200,
-                "width": 1920
-            }
-        },
-        "pos": {
-            "x": 1199,
             "y": 0
         },
         "primary": false,

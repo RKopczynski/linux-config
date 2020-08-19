@@ -1,0 +1,16 @@
+{
+    "id": "6a295800aba2ba44c2f94f980ce2cd23",
+    "metadata": {
+        "fullname": "xrandr-DELL U3419W-BG316T2",
+        "name": "HDMI2"
+    },
+    "mode": {
+        "refresh": 29.992774963378906,
+        "size": {
+            "height": 1440,
+            "width": 3440
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

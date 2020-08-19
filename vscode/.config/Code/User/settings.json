@@ -1,0 +1,22 @@
+{
+    "gitProjectManager.baseProjectsFolders": [
+        "~/CODE",
+        "~/dotfiles"
+    ],
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/bin/**": true,
+        "**/obj/**": true
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vs-kubernetes.helm-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/draft/linux-amd64/draft"
+    }
+}

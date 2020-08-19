@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "af4fc25ff2a9390469d836f6cda3b4d9",
+        "metadata": {
+            "fullname": "xrandr-unknown",
+            "name": "eDP1"
+        },
+        "mode": {
+            "refresh": 60.007850646972656,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 360
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "6a295800aba2ba44c2f94f980ce2cd23",
+        "metadata": {
+            "fullname": "xrandr-DELL U3419W-BG316T2",
+            "name": "HDMI2"
+        },
+        "mode": {
+            "refresh": 29.992774963378906,
+            "size": {
+                "height": 1440,
+                "width": 3440
+            }
+        },
+        "pos": {
+            "x": 1920,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]
