@@ -18,5 +18,6 @@
         "vs-kubernetes.minikube-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
         "vs-kubernetes.helm-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/helm/linux-amd64/helm",
         "vs-kubernetes.draft-path.linux": "/home/rafal-pozitive/.vs-kubernetes/tools/draft/linux-amd64/draft"
-    }
+    },
+    "diffEditor.ignoreTrimWhitespace": true
 }
