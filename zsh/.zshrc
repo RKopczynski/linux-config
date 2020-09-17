@@ -198,6 +198,7 @@ esac
 # custom bash modyfications
 source ~/.bash_aliases
 source ~/.bash_path
+source ~/.bash_variables
 
 # zsh parameter completion for the dotnet CLI
 _dotnet_zsh_complete()
