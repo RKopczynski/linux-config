@@ -3,7 +3,7 @@
         "enabled": true,
         "id": "af4fc25ff2a9390469d836f6cda3b4d9",
         "metadata": {
-            "fullname": "xrandr-unknown",
+            "fullname": "xrandr-Chimei Innolux Corporation",
             "name": "eDP1"
         },
         "mode": {
@@ -25,7 +25,7 @@
         "enabled": true,
         "id": "8912546cb95b5a27fe2c70f2c8c387cc",
         "metadata": {
-            "fullname": "xrandr-DELL U2415-XKV0P01A5PRU",
+            "fullname": "xrandr-Dell Inc.-DELL U2415-XKV0P01A5PRU",
             "name": "DP2-8"
         },
         "mode": {
@@ -40,7 +40,7 @@
             "y": 0
         },
         "primary": false,
-        "rotation": 2,
+        "rotation": 1,
         "scale": 1
     }
 ]
