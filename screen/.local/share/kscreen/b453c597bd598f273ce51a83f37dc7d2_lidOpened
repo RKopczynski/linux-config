@@ -1,6 +1,6 @@
 [
     {
-        "enabled": false,
+        "enabled": true,
         "id": "af4fc25ff2a9390469d836f6cda3b4d9",
         "metadata": {
             "fullname": "xrandr-Chimei Innolux Corporation",
@@ -36,7 +36,7 @@
             }
         },
         "pos": {
-            "x": 0,
+            "x": 1920,
             "y": 0
         },
         "primary": true,
